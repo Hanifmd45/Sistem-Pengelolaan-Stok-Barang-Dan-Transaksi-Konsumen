@@ -1,4 +1,4 @@
-#Sistem Pngelolaan Stok Barang Dan Transaksi Konsumen
+# Sistem Pngelolaan Stok Barang Dan Transaksi Konsumen
 Fitur yang dimiliki pada sistem ini yaitu: 
 1. Meninputkan Data Stok Barang
 2. Restok Barang
